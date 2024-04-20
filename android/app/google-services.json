@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391314948676",
+    "project_id": "swift-e4720",
+    "storage_bucket": "swift-e4720.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391314948676:android:1c94ebe1783a401f64b211",
+        "android_client_info": {
+          "package_name": "com.example.swift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1RZQqdojgDNVRVf0eFEo_fXvUOjJAfFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
