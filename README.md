@@ -1,16 +1,11 @@
 # swift
 
-A new Flutter project.
+A smart watch suitable for both genders and all ages, linked to a mobile application that measures the heart rate and alerts the asthma patient of the imminent occurrence of a sudden asthma attack. This application shows the patient his vital signs and air quality and prints this data for the client when needed.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Technologies Used:
+flutter
+firebase
+local database
+Design pattern 
+solid prienciple 
+Arduino 
